@@ -1,0 +1,78 @@
+header, footer {
+    background-color: #201ecc;
+    color: #ddd;
+    padding: 25px;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-size-adjust: 9px;
+  
+}
+
+aside {
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.title {
+    text-align: center;
+    color: darkblue;
+}
+h2 {
+    text-align: center;
+    color: darkblue;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#orderedlist {
+    color: #006400;
+}
+
+nav {
+    background-color: #867b12;
+      
+}
+
+section, article {
+    padding: 10px;
+    background-color: #eee;
+    
+}
+img {
+  
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(170, 145, 36);
+    
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link {
+    text-align: center;
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: darkblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+    
+}
